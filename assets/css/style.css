@@ -1881,6 +1881,15 @@ section {
   .glightbox i:hover{
     color: var(--color-primary);
   }
+
+
+  @media (max-width: 600px) {
+    
+    .card_pro {
+     
+    }
+    
+  }
   /*--------------------------------------------------------------
   #services detail Section
   --------------------------------------------------------------*/
@@ -1926,11 +1935,7 @@ section {
   
   
   /* ----------------- */
-  .verticaly {
-    transform: rotate(-90deg);
-  }
-
-
+  
   
   /*--------------------------------------------------------------
   #services Section
